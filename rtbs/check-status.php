@@ -26,7 +26,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 <html lang="en">
 
 <head>
-	<title>Restaurent Table Booking System</title>
+	<title>Warung Warem</title>
 	<!-- Meta tags -->
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -50,7 +50,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 
 <body>
 	<h1 class="header-w3ls">
-		RTBS | Check Status</h1>
+		Warung Warem | Check Status</h1>
 	<div class="appointment-w3">
 		<form action="search-result.php" method="post">
 			<div class="personal">
